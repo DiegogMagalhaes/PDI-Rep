@@ -1,0 +1,5 @@
+Implemente em python, usando numpy, matplotlib, opencv e Jupyter Notebooks o algoritmo de equalizacao de histogramas visto na aula do dia 19/03.
+
+1) Teste o algoritmo com as imagens em tons de cinza dadas. Exiba os resultados comparando os histogramas obtidos antes e depois do processamento.
+
+2) Realize a equalizacao da imagem colorida utilizando todas as bandas no espaço rgb e, no espaço hsv, escolha uma ou mais bandas para realizar tal tarefa. Analise e discuta os resultados obtidos.
